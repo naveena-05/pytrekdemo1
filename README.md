@@ -1,3 +1,3 @@
-# pytrekdemo1
-first attempt
+# pytrek demo 1
+first attempt.
 Trying to learn how github works
